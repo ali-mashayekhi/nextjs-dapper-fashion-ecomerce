@@ -12,11 +12,15 @@ const config: Config = {
         primary: "#BA9B88",
         "primary-black": {
           800: "#141311",
+          500: "#5B5A58",
+          400: "#727170",
           300: "#8a8988",
+          100: "#e8e7e7",
         },
         "primary-gray": {
           200: "#EDEEF2",
         },
+        "custom-yellow": "#EAC612",
       },
       spacing: {
         "8xl": "100rem",
